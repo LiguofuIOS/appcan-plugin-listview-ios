@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<uexplugins>
+    <plugin uexName="uexListView" version="3.0.2" build = "2">
+        <info>2:修复加载图片大小不统一的bug</info>
+        <build>1:修复上拉加载时内容加载太快,右滑时出现红色背景的bug</build>
+        <build>0:Listview下拉列表，封装Listview扩展功能</build>
+	</plugin>
+</uexplugins>
